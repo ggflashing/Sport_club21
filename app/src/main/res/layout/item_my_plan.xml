@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/bg_color"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Упражнение сильная спина"
+        android:textSize="18sp">
+
+    </TextView>
+
+
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="Комплекс упражнений напрвление всех \n групп мышц спина">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/ic_launcher_background">
+
+        </ImageView>
+
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="160dp"
+            android:layout_marginLeft="15dp"
+            android:layout_height="160dp"
+            android:src="@drawable/ic_launcher_background">
+
+        </ImageView>
+
+    </LinearLayout>
+
+</LinearLayout>

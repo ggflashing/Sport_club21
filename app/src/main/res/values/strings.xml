@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sport_club21</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="text_attention_total_list">Все виды тренировок:\n Во избежания травм и других последствий рекомендуем обратится к тренерам клуба:</string>
+    <string name="lunch_choose_room">После выбора позиции для заказа в отделе *Спорт питание*\n обратитесь для заказа к администратору.
+    Вы можете оплатить картой или наличными\n на респешене клуба.\n Выдача заказов и питание -\n в зале *Lunch room*.</string>
+    <string name="recomendation">Настоятельно рекомендуем\n внимательно ознакомится с описанием\n и рекомендациями по применению видов спорт-питания и блюд,\n
+    прежде чем оформлять заказ.\n Рекомендуем обратится\n к нашим специалистам-тренерам</string>
+    <string name="bb_sport_club">BB SPORT CLUB</string>
+
+
+    <string name="incredible_fitness_club">INCREDIBLE FITNESS CLUB</string>
+    <string name="Fit">Соревнование по плаванию</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
